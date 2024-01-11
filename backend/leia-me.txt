@@ -1,0 +1,5 @@
+fastify
+framework para criar API com o node
+
+tsx
+biblioteca pra rodar os arquivos typesscript
